@@ -1,2 +1,2 @@
 # hello-world
-Repo for cloud project
+Repositry for cloud project
